@@ -19,7 +19,7 @@ Learner | writer
 
 ?></h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=nurul5801&show_icons=true&locale=en" alt="Md. Nurul Huda Arosh" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nurul5801&show_icons=true&locale=en" alt="Md. Nurul Huda Arosh" /></p>
 
 <p><img width="470"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nurul5801&show_icons=true&locale=en&layout=compact" alt="Md. Nurul Huda Arosh" /></p>
 
