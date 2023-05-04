@@ -19,9 +19,9 @@ Learner | writer
 
 ?></h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nurul5801&show_icons=true&locale=en" alt="Md. Nurul Huda Arosh" /></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=nurul5801&show_icons=true&locale=en" alt="Md. Nurul Huda Arosh" /></p>
 
-<p><img width="470"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nurul5801&show_icons=true&locale=en&layout=compact" alt="Md. Nurul Huda Arosh" /></p>
+<p><img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nurul5801&show_icons=true&locale=en&layout=compact" alt="Md. Nurul Huda Arosh" /></p>
 
 [![MD. Nurul huda's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nurul5801)](https://github.com/nurul5801/github-readme-activity-graph)
 
